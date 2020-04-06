@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="data" path="ActionManager" hit="Enter registration data" />
+    <option name="enter" path="ActionManager" hit="Enter registration data" />
+    <option name="registration" path="ActionManager" hit="Enter registration data" />
+    <option name="license" path="ActionManager" hit="Manage License..." />
+    <option name="manage" path="ActionManager" hit="Manage License..." />
+    <option name="register" path="ActionManager" hit="Register" />
+    <option name="register" path="ActionManager" hit="Register..." />
+  </configurable>
+</options>
+
