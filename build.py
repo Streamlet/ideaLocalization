@@ -41,9 +41,11 @@ def processDir(zip, parent_path_in_zip, path_in_fs):
 			processFile(zip, parent_path_in_zip + name + '_zh_CN' + ext, path_in_fs + '/' + filename)
 
 def main():
-	zip = zipfile.ZipFile('resources_zh_CN.jar', 'w', zipfile.ZIP_STORED)
+	if not os.path.exists('out'):
+		os.mkdir('out')
+	zip = zipfile.ZipFile('out/resources_zh_CN.jar', 'w', zipfile.ZIP_STORED)
 	assert zip
-	processDir(zip, '', 'resources/zh-CN')
+	processDir(zip, '', 'resources')
 	zip.close()
 
 if __name__ == "__main__":
