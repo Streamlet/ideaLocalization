@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="endpoints" path="ActionManager" hit="Group Endpoints" />
+    <option name="group" path="ActionManager" hit="Group Endpoints" />
+    <option name="by" path="ActionManager" hit="Group Endpoints by Endpoint Source" />
+    <option name="endpoint" path="ActionManager" hit="Group Endpoints by Endpoint Source" />
+    <option name="endpoints" path="ActionManager" hit="Group Endpoints by Endpoint Source" />
+    <option name="group" path="ActionManager" hit="Group Endpoints by Endpoint Source" />
+    <option name="source" path="ActionManager" hit="Group Endpoints by Endpoint Source" />
+    <option name="by" path="ActionManager" hit="Group Endpoints by Endpoint Type" />
+    <option name="endpoint" path="ActionManager" hit="Group Endpoints by Endpoint Type" />
+    <option name="endpoints" path="ActionManager" hit="Group Endpoints by Endpoint Type" />
+    <option name="group" path="ActionManager" hit="Group Endpoints by Endpoint Type" />
+    <option name="type" path="ActionManager" hit="Group Endpoints by Endpoint Type" />
+    <option name="by" path="ActionManager" hit="Group Endpoints by Framework" />
+    <option name="endpoints" path="ActionManager" hit="Group Endpoints by Framework" />
+    <option name="framework" path="ActionManager" hit="Group Endpoints by Framework" />
+    <option name="group" path="ActionManager" hit="Group Endpoints by Framework" />
+    <option name="by" path="ActionManager" hit="Group Endpoints by Module" />
+    <option name="endpoints" path="ActionManager" hit="Group Endpoints by Module" />
+    <option name="group" path="ActionManager" hit="Group Endpoints by Module" />
+    <option name="module" path="ActionManager" hit="Group Endpoints by Module" />
+    <option name="by" path="ActionManager" hit="Group Endpoints by Project" />
+    <option name="endpoints" path="ActionManager" hit="Group Endpoints by Project" />
+    <option name="group" path="ActionManager" hit="Group Endpoints by Project" />
+    <option name="project" path="ActionManager" hit="Group Endpoints by Project" />
+    <option name="empty" path="ActionManager" hit="Show Empty Groups in Endpoints" />
+    <option name="endpoints" path="ActionManager" hit="Show Empty Groups in Endpoints" />
+    <option name="groups" path="ActionManager" hit="Show Empty Groups in Endpoints" />
+    <option name="in" path="ActionManager" hit="Show Empty Groups in Endpoints" />
+    <option name="show" path="ActionManager" hit="Show Empty Groups in Endpoints" />
+    <option name="details" path="ActionManager" hit="Show Endpoint Details" />
+    <option name="endpoint" path="ActionManager" hit="Show Endpoint Details" />
+    <option name="show" path="ActionManager" hit="Show Endpoint Details" />
+    <option name="endpoints" path="ActionManager" hit="Show Endpoints From Libraries" />
+    <option name="from" path="ActionManager" hit="Show Endpoints From Libraries" />
+    <option name="libraries" path="ActionManager" hit="Show Endpoints From Libraries" />
+    <option name="show" path="ActionManager" hit="Show Endpoints From Libraries" />
+    <option name="endpoints" path="ActionManager" hit="Show Endpoints From Open Projects" />
+    <option name="from" path="ActionManager" hit="Show Endpoints From Open Projects" />
+    <option name="open" path="ActionManager" hit="Show Endpoints From Open Projects" />
+    <option name="projects" path="ActionManager" hit="Show Endpoints From Open Projects" />
+    <option name="show" path="ActionManager" hit="Show Endpoints From Open Projects" />
+  </configurable>
+</options>
+
