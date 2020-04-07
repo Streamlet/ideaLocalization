@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="attach" path="ActionManager" hit="Attach Profiler to Process..." />
+    <option name="process" path="ActionManager" hit="Attach Profiler to Process..." />
+    <option name="profiler" path="ActionManager" hit="Attach Profiler to Process..." />
+    <option name="to" path="ActionManager" hit="Attach Profiler to Process..." />
+    <option name="an" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="attach" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="available" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="process" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="profiler" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="to" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="with" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="and" path="ActionManager" hit="CPU and Memory Live Charts Demo" />
+    <option name="charts" path="ActionManager" hit="CPU and Memory Live Charts Demo" />
+    <option name="cpu" path="ActionManager" hit="CPU and Memory Live Charts Demo" />
+    <option name="demo" path="ActionManager" hit="CPU and Memory Live Charts Demo" />
+    <option name="live" path="ActionManager" hit="CPU and Memory Live Charts Demo" />
+    <option name="memory" path="ActionManager" hit="CPU and Memory Live Charts Demo" />
+    <option name="back" path="ActionManager" hit="Method Back Traces" />
+    <option name="method" path="ActionManager" hit="Method Back Traces" />
+    <option name="traces" path="ActionManager" hit="Method Back Traces" />
+    <option name="callees" path="ActionManager" hit="Method Merged Callees" />
+    <option name="merged" path="ActionManager" hit="Method Merged Callees" />
+    <option name="method" path="ActionManager" hit="Method Merged Callees" />
+    <option name="open" path="ActionManager" hit="Open Profiler Snapshot" />
+    <option name="profiler" path="ActionManager" hit="Open Profiler Snapshot" />
+    <option name="snapshot" path="ActionManager" hit="Open Profiler Snapshot" />
+    <option name="a" path="ActionManager" hit="Open selected method Back Traces tree in a new tab" />
+    <option name="back" path="ActionManager" hit="Open selected method Back Traces tree in a new tab" />
+    <option name="in" path="ActionManager" hit="Open selected method Back Traces tree in a new tab" />
+    <option name="method" path="ActionManager" hit="Open selected method Back Traces tree in a new tab" />
+    <option name="new" path="ActionManager" hit="Open selected method Back Traces tree in a new tab" />
+    <option name="open" path="ActionManager" hit="Open selected method Back Traces tree in a new tab" />
+    <option name="selected" path="ActionManager" hit="Open selected method Back Traces tree in a new tab" />
+    <option name="tab" path="ActionManager" hit="Open selected method Back Traces tree in a new tab" />
+    <option name="traces" path="ActionManager" hit="Open selected method Back Traces tree in a new tab" />
+    <option name="tree" path="ActionManager" hit="Open selected method Back Traces tree in a new tab" />
+    <option name="a" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
+    <option name="callees" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
+    <option name="in" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
+    <option name="merged" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
+    <option name="method" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
+    <option name="new" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
+    <option name="open" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
+    <option name="selected" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
+    <option name="tab" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
+    <option name="tree" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
+  </configurable>
+</options>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="convert" path="ActionManager" hit="Convert Schema..." />
+    <option name="schema" path="ActionManager" hit="Convert Schema..." />
+    <option name="another" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="converts" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="document" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="dtd" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="format" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="into" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="rnc" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="rng" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="schema" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="selected" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="the" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+    <option name="xsd" path="ActionManager" hit="Converts the selected Schema document (RNG, RNC, XSD, DTD) into another format" />
+  </configurable>
+</options>
+
