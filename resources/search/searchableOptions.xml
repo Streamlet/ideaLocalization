@@ -421,10 +421,11 @@
     <option name="program" hit="Early Access Program" />
     <option name="iu-182" hit="IU-182.SNAPSHOT" />
     <option name="snapshot" hit="IU-182.SNAPSHOT" />
-    <option name="2" hit="IntelliJ IDEA 2018.2" />
-    <option name="2018" hit="IntelliJ IDEA 2018.2" />
-    <option name="idea" hit="IntelliJ IDEA 2018.2" />
-    <option name="intellij" hit="IntelliJ IDEA 2018.2" />
+    <option name="2" hit="IntelliJ IDEA 2018.2.7" />
+    <option name="2018" hit="IntelliJ IDEA 2018.2.7" />
+    <option name="7" hit="IntelliJ IDEA 2018.2.7" />
+    <option name="idea" hit="IntelliJ IDEA 2018.2.7" />
+    <option name="intellij" hit="IntelliJ IDEA 2018.2.7" />
     <option name="checked" hit="Last checked" />
     <option name="last" hit="Last checked" />
     <option name="channel" hit="Please note that this channel is less stable than your current one." />
@@ -1424,9 +1425,6 @@
     <option name="android" path="ActionManager" hit="Android Resource Directory" />
     <option name="directory" path="ActionManager" hit="Android Resource Directory" />
     <option name="resource" path="ActionManager" hit="Android Resource Directory" />
-    <option name="android" path="ActionManager" hit="Android Studio Help" />
-    <option name="help" path="ActionManager" hit="Android Studio Help" />
-    <option name="studio" path="ActionManager" hit="Android Studio Help" />
     <option name="android" path="ActionManager" hit="Android resource file" />
     <option name="file" path="ActionManager" hit="Android resource file" />
     <option name="resource" path="ActionManager" hit="Android resource file" />
@@ -3147,14 +3145,18 @@
     <option name="paths" path="ActionManager" hit="Copy paths corresponding to selected files or directories to clipboard" />
     <option name="selected" path="ActionManager" hit="Copy paths corresponding to selected files or directories to clipboard" />
     <option name="to" path="ActionManager" hit="Copy paths corresponding to selected files or directories to clipboard" />
-    <option name="class" path="ActionManager" hit="Copy reference to selected class, method or function" />
-    <option name="copy" path="ActionManager" hit="Copy reference to selected class, method or function" />
-    <option name="function" path="ActionManager" hit="Copy reference to selected class, method or function" />
-    <option name="method" path="ActionManager" hit="Copy reference to selected class, method or function" />
-    <option name="or" path="ActionManager" hit="Copy reference to selected class, method or function" />
-    <option name="reference" path="ActionManager" hit="Copy reference to selected class, method or function" />
-    <option name="selected" path="ActionManager" hit="Copy reference to selected class, method or function" />
-    <option name="to" path="ActionManager" hit="Copy reference to selected class, method or function" />
+    <option name="a" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
+    <option name="class" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
+    <option name="copy" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
+    <option name="file" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
+    <option name="function" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
+    <option name="method" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
+    <option name="or" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
+    <option name="path" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
+    <option name="reference" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
+    <option name="relative" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
+    <option name="selected" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
+    <option name="to" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
     <option name="copy" path="ActionManager" hit="Copy selected file or directory to the new repository location" />
     <option name="directory" path="ActionManager" hit="Copy selected file or directory to the new repository location" />
     <option name="file" path="ActionManager" hit="Copy selected file or directory to the new repository location" />
@@ -3969,11 +3971,13 @@
     <option name="new" path="ActionManager" hit="Creates new data source from selected file" />
     <option name="selected" path="ActionManager" hit="Creates new data source from selected file" />
     <option name="source" path="ActionManager" hit="Creates new data source from selected file" />
-    <option name="creates" path="ActionManager" hit="Creates new data source here" />
-    <option name="data" path="ActionManager" hit="Creates new data source here" />
-    <option name="here" path="ActionManager" hit="Creates new data source here" />
-    <option name="new" path="ActionManager" hit="Creates new data source here" />
-    <option name="source" path="ActionManager" hit="Creates new data source here" />
+    <option name="creates" path="ActionManager" hit="Creates new data source in current directory" />
+    <option name="current" path="ActionManager" hit="Creates new data source in current directory" />
+    <option name="data" path="ActionManager" hit="Creates new data source in current directory" />
+    <option name="directory" path="ActionManager" hit="Creates new data source in current directory" />
+    <option name="in" path="ActionManager" hit="Creates new data source in current directory" />
+    <option name="new" path="ActionManager" hit="Creates new data source in current directory" />
+    <option name="source" path="ActionManager" hit="Creates new data source in current directory" />
     <option name="buffer" path="ActionManager" hit="Creates new or reuses existing scratch buffer" />
     <option name="creates" path="ActionManager" hit="Creates new or reuses existing scratch buffer" />
     <option name="existing" path="ActionManager" hit="Creates new or reuses existing scratch buffer" />
@@ -4057,8 +4061,6 @@
     <option name="database" path="ActionManager" hit="Database" />
     <option name="database" path="ActionManager" hit="Database Tools" />
     <option name="tools" path="ActionManager" hit="Database Tools" />
-    <option name="database" path="ActionManager" hit="Database Tools..." />
-    <option name="tools" path="ActionManager" hit="Database Tools..." />
     <option name="debug" path="ActionManager" hit="Debug" />
     <option name="actions" path="ActionManager" hit="Debug Actions" />
     <option name="debug" path="ActionManager" hit="Debug Actions" />
@@ -6767,9 +6769,6 @@
     <option name="branch" path="ActionManager" hit="Integrate to Branch" />
     <option name="integrate" path="ActionManager" hit="Integrate to Branch" />
     <option name="to" path="ActionManager" hit="Integrate to Branch" />
-    <option name="help" path="ActionManager" hit="IntelliJ IDEA Help" />
-    <option name="idea" path="ActionManager" hit="IntelliJ IDEA Help" />
-    <option name="intellij" path="ActionManager" hit="IntelliJ IDEA Help" />
     <option name="intellisort" path="ActionManager" hit="IntelliSort" />
     <option name="from" path="ActionManager" hit="Interactively Rebase from Here..." />
     <option name="here" path="ActionManager" hit="Interactively Rebase from Here..." />
@@ -6978,7 +6977,6 @@
     <option name="up" path="ActionManager" hit="Level up" />
     <option name="library" path="ActionManager" hit="Library Properties..." />
     <option name="properties" path="ActionManager" hit="Library Properties..." />
-    <option name="licenses" path="ActionManager" hit="Licenses" />
     <option name="limit" path="ActionManager" hit="Limit Scope To Selection" />
     <option name="scope" path="ActionManager" hit="Limit Scope To Selection" />
     <option name="selection" path="ActionManager" hit="Limit Scope To Selection" />
@@ -11446,6 +11444,9 @@
     <option name="form" path="ActionManager" hit="Show form XML content" />
     <option name="show" path="ActionManager" hit="Show form XML content" />
     <option name="xml" path="ActionManager" hit="Show form XML content" />
+    <option name="contents" path="ActionManager" hit="Show help contents" />
+    <option name="help" path="ActionManager" hit="Show help contents" />
+    <option name="show" path="ActionManager" hit="Show help contents" />
     <option name="and" path="ActionManager" hit="Show hidden files and directories" />
     <option name="directories" path="ActionManager" hit="Show hidden files and directories" />
     <option name="files" path="ActionManager" hit="Show hidden files and directories" />
@@ -12924,8 +12925,8 @@
     <option name="instances" path="ActionManager" hit="Track New Instances" />
     <option name="new" path="ActionManager" hit="Track New Instances" />
     <option name="track" path="ActionManager" hit="Track New Instances" />
-    <option name="control" path="ActionManager" hit="Transaction control" />
-    <option name="transaction" path="ActionManager" hit="Transaction control" />
+    <option name="mode" path="ActionManager" hit="Transaction mode" />
+    <option name="transaction" path="ActionManager" hit="Transaction mode" />
     <option name="object" path="ActionManager" hit="Transfer Object" />
     <option name="transfer" path="ActionManager" hit="Transfer Object" />
     <option name="chessboard" path="ActionManager" hit="Transparency Chessboard" />
@@ -14112,6 +14113,11 @@
     <option name="match" hit="Match case:   " />
     <option name="info" hit="Parameter Info" />
     <option name="parameter" hit="Parameter Info" />
+    <option name="completion" hit="Preselect first completion element" />
+    <option name="element" hit="Preselect first completion element" />
+    <option name="first" hit="Preselect first completion element" />
+    <option name="preselect" hit="Preselect first completion element" />
+    <option name="ruby" hit="Ruby" />
     <option name="full" hit="Show full method signatures" />
     <option name="method" hit="Show full method signatures" />
     <option name="show" hit="Show full method signatures" />
@@ -21595,6 +21601,13 @@
     <option name="operators" hit="Around Operators" />
     <option name="array" hit="Array initializer" />
     <option name="initializer" hit="Array initializer" />
+    <option name="array" hit="Array initializer braces" />
+    <option name="braces" hit="Array initializer braces" />
+    <option name="initializer" hit="Array initializer braces" />
+    <option name="array" hit="Array initializer left brace" />
+    <option name="brace" hit="Array initializer left brace" />
+    <option name="initializer" hit="Array initializer left brace" />
+    <option name="left" hit="Array initializer left brace" />
     <option name="assert" hit="Assert statement" />
     <option name="statement" hit="Assert statement" />
     <option name="assignment" hit="Assignment operators (=, +=, ...)" />
@@ -21656,6 +21669,10 @@
     <option name="line" hit="Control statement in one line" />
     <option name="one" hit="Control statement in one line" />
     <option name="statement" hit="Control statement in one line" />
+    <option name="array" hit="Empty array initializer braces" />
+    <option name="braces" hit="Empty array initializer braces" />
+    <option name="empty" hit="Empty array initializer braces" />
+    <option name="initializer" hit="Empty array initializer braces" />
     <option name="call" hit="Empty method call parentheses" />
     <option name="empty" hit="Empty method call parentheses" />
     <option name="method" hit="Empty method call parentheses" />
@@ -31656,6 +31673,8 @@
     <option name="10" hit="1.10" />
     <option name="1" hit="1.11" />
     <option name="11" hit="1.11" />
+    <option name="1" hit="1.12" />
+    <option name="12" hit="1.12" />
     <option name="1" hit="1.5" />
     <option name="5" hit="1.5" />
     <option name="1" hit="1.6" />
@@ -31956,6 +31975,13 @@
     <option name="in" hit="Always show console toolbar in editor" />
     <option name="show" hit="Always show console toolbar in editor" />
     <option name="toolbar" hit="Always show console toolbar in editor" />
+    <option name="always" hit="Always show qualified names for database objects" />
+    <option name="database" hit="Always show qualified names for database objects" />
+    <option name="for" hit="Always show qualified names for database objects" />
+    <option name="names" hit="Always show qualified names for database objects" />
+    <option name="objects" hit="Always show qualified names for database objects" />
+    <option name="qualified" hit="Always show qualified names for database objects" />
+    <option name="show" hit="Always show qualified names for database objects" />
     <option name="ask" hit="Ask what to execute" />
     <option name="execute" hit="Ask what to execute" />
     <option name="to" hit="Ask what to execute" />
