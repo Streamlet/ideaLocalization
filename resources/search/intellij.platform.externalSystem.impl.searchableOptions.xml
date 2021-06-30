@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <options>
   <configurable id="preferences.keymap" configurable_name="Keymap">
     <option name="" path="ActionManager" hit="" />
@@ -17,17 +16,70 @@
     <option name="task" path="ActionManager" hit="Assign shortcut to the selected task" />
     <option name="the" path="ActionManager" hit="Assign shortcut to the selected task" />
     <option name="to" path="ActionManager" hit="Assign shortcut to the selected task" />
-    <option name="auto-import" path="ActionManager" hit="Auto-Import" />
+    <option name="auto-reload" path="ActionManager" hit="Auto-Reload Settings..." />
+    <option name="settings" path="ActionManager" hit="Auto-Reload Settings..." />
+    <option name="after" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="and" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="auto-reload" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="build" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="changes" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="files" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="ide" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="made" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="outside" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="project" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="the" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="to" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="updates" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="vcs" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
+    <option name="after" path="ActionManager" hit="Auto-reload the project after any changes to build files" />
+    <option name="any" path="ActionManager" hit="Auto-reload the project after any changes to build files" />
+    <option name="auto-reload" path="ActionManager" hit="Auto-reload the project after any changes to build files" />
+    <option name="build" path="ActionManager" hit="Auto-reload the project after any changes to build files" />
+    <option name="changes" path="ActionManager" hit="Auto-reload the project after any changes to build files" />
+    <option name="files" path="ActionManager" hit="Auto-reload the project after any changes to build files" />
+    <option name="project" path="ActionManager" hit="Auto-reload the project after any changes to build files" />
+    <option name="the" path="ActionManager" hit="Auto-reload the project after any changes to build files" />
+    <option name="to" path="ActionManager" hit="Auto-reload the project after any changes to build files" />
+    <option name="build" path="ActionManager" hit="Build Tool Settings" />
+    <option name="settings" path="ActionManager" hit="Build Tool Settings" />
+    <option name="tool" path="ActionManager" hit="Build Tool Settings" />
+    <option name="build" path="ActionManager" hit="Build Tools Settings" />
+    <option name="settings" path="ActionManager" hit="Build Tools Settings" />
+    <option name="tools" path="ActionManager" hit="Build Tools Settings" />
     <option name="all" path="ActionManager" hit="Collapse All" />
     <option name="collapse" path="ActionManager" hit="Collapse All" />
+    <option name="after" path="ActionManager" hit="Disable auto-reload after all changes" />
+    <option name="all" path="ActionManager" hit="Disable auto-reload after all changes" />
+    <option name="auto-reload" path="ActionManager" hit="Disable auto-reload after all changes" />
+    <option name="changes" path="ActionManager" hit="Disable auto-reload after all changes" />
+    <option name="disable" path="ActionManager" hit="Disable auto-reload after all changes" />
     <option name="display" path="ActionManager" hit="Display Tasks Inherited from Sub-Projects" />
     <option name="from" path="ActionManager" hit="Display Tasks Inherited from Sub-Projects" />
     <option name="inherited" path="ActionManager" hit="Display Tasks Inherited from Sub-Projects" />
     <option name="sub-projects" path="ActionManager" hit="Display Tasks Inherited from Sub-Projects" />
     <option name="tasks" path="ActionManager" hit="Display Tasks Inherited from Sub-Projects" />
+    <option name="after" path="ActionManager" hit="Don't auto-reload project after any changes to build files" />
+    <option name="any" path="ActionManager" hit="Don't auto-reload project after any changes to build files" />
+    <option name="auto-reload" path="ActionManager" hit="Don't auto-reload project after any changes to build files" />
+    <option name="build" path="ActionManager" hit="Don't auto-reload project after any changes to build files" />
+    <option name="changes" path="ActionManager" hit="Don't auto-reload project after any changes to build files" />
+    <option name="don" path="ActionManager" hit="Don't auto-reload project after any changes to build files" />
+    <option name="files" path="ActionManager" hit="Don't auto-reload project after any changes to build files" />
+    <option name="project" path="ActionManager" hit="Don't auto-reload project after any changes to build files" />
+    <option name="t" path="ActionManager" hit="Don't auto-reload project after any changes to build files" />
+    <option name="to" path="ActionManager" hit="Don't auto-reload project after any changes to build files" />
     <option name="configuration" path="ActionManager" hit="Edit Run Configuration..." />
     <option name="edit" path="ActionManager" hit="Edit Run Configuration..." />
     <option name="run" path="ActionManager" hit="Edit Run Configuration..." />
+    <option name="build" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="current" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="edit" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="for" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="project" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="settings" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="the" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="tools" path="ActionManager" hit="Edit build tools settings for the current project" />
     <option name="current" path="ActionManager" hit="Edit external settings for the current project" />
     <option name="edit" path="ActionManager" hit="Edit external settings for the current project" />
     <option name="external" path="ActionManager" hit="Edit external settings for the current project" />
@@ -41,17 +93,17 @@
     <option name="settings" path="ActionManager" hit="Edit external system tasks activation settings" />
     <option name="system" path="ActionManager" hit="Edit external system tasks activation settings" />
     <option name="tasks" path="ActionManager" hit="Edit external system tasks activation settings" />
-    <option name="automatic" path="ActionManager" hit="Enable/disable automatic project importing on changes in build script files" />
-    <option name="build" path="ActionManager" hit="Enable/disable automatic project importing on changes in build script files" />
-    <option name="changes" path="ActionManager" hit="Enable/disable automatic project importing on changes in build script files" />
-    <option name="disable" path="ActionManager" hit="Enable/disable automatic project importing on changes in build script files" />
-    <option name="enable" path="ActionManager" hit="Enable/disable automatic project importing on changes in build script files" />
-    <option name="files" path="ActionManager" hit="Enable/disable automatic project importing on changes in build script files" />
-    <option name="importing" path="ActionManager" hit="Enable/disable automatic project importing on changes in build script files" />
-    <option name="in" path="ActionManager" hit="Enable/disable automatic project importing on changes in build script files" />
-    <option name="on" path="ActionManager" hit="Enable/disable automatic project importing on changes in build script files" />
-    <option name="project" path="ActionManager" hit="Enable/disable automatic project importing on changes in build script files" />
-    <option name="script" path="ActionManager" hit="Enable/disable automatic project importing on changes in build script files" />
+    <option name="after" path="ActionManager" hit="Enable auto-reload after any changes" />
+    <option name="any" path="ActionManager" hit="Enable auto-reload after any changes" />
+    <option name="auto-reload" path="ActionManager" hit="Enable auto-reload after any changes" />
+    <option name="changes" path="ActionManager" hit="Enable auto-reload after any changes" />
+    <option name="enable" path="ActionManager" hit="Enable auto-reload after any changes" />
+    <option name="after" path="ActionManager" hit="Enable auto-reload only after external changes" />
+    <option name="auto-reload" path="ActionManager" hit="Enable auto-reload only after external changes" />
+    <option name="changes" path="ActionManager" hit="Enable auto-reload only after external changes" />
+    <option name="enable" path="ActionManager" hit="Enable auto-reload only after external changes" />
+    <option name="external" path="ActionManager" hit="Enable auto-reload only after external changes" />
+    <option name="only" path="ActionManager" hit="Enable auto-reload only after external changes" />
     <option name="after" path="ActionManager" hit="Execute After Build" />
     <option name="build" path="ActionManager" hit="Execute After Build" />
     <option name="execute" path="ActionManager" hit="Execute After Build" />
@@ -123,24 +175,27 @@
     <option name="tasks" path="ActionManager" hit="Execute selected tasks" />
     <option name="all" path="ActionManager" hit="Expand All" />
     <option name="expand" path="ActionManager" hit="Expand All" />
-    <option name="external" path="ActionManager" hit="External Settings" />
-    <option name="settings" path="ActionManager" hit="External Settings" />
-    <option name="all" path="ActionManager" hit="Force reimport all linked external projects" />
-    <option name="external" path="ActionManager" hit="Force reimport all linked external projects" />
-    <option name="force" path="ActionManager" hit="Force reimport all linked external projects" />
-    <option name="linked" path="ActionManager" hit="Force reimport all linked external projects" />
-    <option name="projects" path="ActionManager" hit="Force reimport all linked external projects" />
-    <option name="reimport" path="ActionManager" hit="Force reimport all linked external projects" />
-    <option name="external" path="ActionManager" hit="Force reimport selected linked External project" />
-    <option name="force" path="ActionManager" hit="Force reimport selected linked External project" />
-    <option name="linked" path="ActionManager" hit="Force reimport selected linked External project" />
-    <option name="project" path="ActionManager" hit="Force reimport selected linked External project" />
-    <option name="reimport" path="ActionManager" hit="Force reimport selected linked External project" />
-    <option name="selected" path="ActionManager" hit="Force reimport selected linked External project" />
+    <option name="external" path="ActionManager" hit="External Settings..." />
+    <option name="settings" path="ActionManager" hit="External Settings..." />
+    <option name="all" path="ActionManager" hit="Force reload all linked external projects" />
+    <option name="external" path="ActionManager" hit="Force reload all linked external projects" />
+    <option name="force" path="ActionManager" hit="Force reload all linked external projects" />
+    <option name="linked" path="ActionManager" hit="Force reload all linked external projects" />
+    <option name="projects" path="ActionManager" hit="Force reload all linked external projects" />
+    <option name="reload" path="ActionManager" hit="Force reload all linked external projects" />
+    <option name="external" path="ActionManager" hit="Force reload selected linked External project" />
+    <option name="force" path="ActionManager" hit="Force reload selected linked External project" />
+    <option name="linked" path="ActionManager" hit="Force reload selected linked External project" />
+    <option name="project" path="ActionManager" hit="Force reload selected linked External project" />
+    <option name="reload" path="ActionManager" hit="Force reload selected linked External project" />
+    <option name="selected" path="ActionManager" hit="Force reload selected linked External project" />
     <option name="group" path="ActionManager" hit="Group Modules" />
     <option name="modules" path="ActionManager" hit="Group Modules" />
     <option name="group" path="ActionManager" hit="Group Tasks" />
     <option name="tasks" path="ActionManager" hit="Group Tasks" />
+    <option name="hide" path="ActionManager" hit="Hide this notification" />
+    <option name="notification" path="ActionManager" hit="Hide this notification" />
+    <option name="this" path="ActionManager" hit="Hide this notification" />
     <option name="external" path="ActionManager" hit="Ignore External Project" />
     <option name="ignore" path="ActionManager" hit="Ignore External Project" />
     <option name="project" path="ActionManager" hit="Ignore External Project" />
@@ -148,6 +203,15 @@
     <option name="ignore" path="ActionManager" hit="Ignore selected external project" />
     <option name="project" path="ActionManager" hit="Ignore selected external project" />
     <option name="selected" path="ActionManager" hit="Ignore selected external project" />
+    <option name="changes" path="ActionManager" hit="Load Changes" />
+    <option name="load" path="ActionManager" hit="Load Changes" />
+    <option name="build" path="ActionManager" hit="Load build system changes into IntelliJ IDEA." />
+    <option name="changes" path="ActionManager" hit="Load build system changes into IntelliJ IDEA." />
+    <option name="idea" path="ActionManager" hit="Load build system changes into IntelliJ IDEA." />
+    <option name="intellij" path="ActionManager" hit="Load build system changes into IntelliJ IDEA." />
+    <option name="into" path="ActionManager" hit="Load build system changes into IntelliJ IDEA." />
+    <option name="load" path="ActionManager" hit="Load build system changes into IntelliJ IDEA." />
+    <option name="system" path="ActionManager" hit="Load build system changes into IntelliJ IDEA." />
     <option name="config" path="ActionManager" hit="Open External Config" />
     <option name="external" path="ActionManager" hit="Open External Config" />
     <option name="open" path="ActionManager" hit="Open External Config" />
@@ -158,13 +222,13 @@
     <option name="opens" path="ActionManager" hit="Opens the external project file in the editor" />
     <option name="project" path="ActionManager" hit="Opens the external project file in the editor" />
     <option name="the" path="ActionManager" hit="Opens the external project file in the editor" />
-    <option name="all" path="ActionManager" hit="Reimport All External Projects" />
-    <option name="external" path="ActionManager" hit="Reimport All External Projects" />
-    <option name="projects" path="ActionManager" hit="Reimport All External Projects" />
-    <option name="reimport" path="ActionManager" hit="Reimport All External Projects" />
-    <option name="external" path="ActionManager" hit="Reimport External Project" />
-    <option name="project" path="ActionManager" hit="Reimport External Project" />
-    <option name="reimport" path="ActionManager" hit="Reimport External Project" />
+    <option name="all" path="ActionManager" hit="Reload All External Projects" />
+    <option name="external" path="ActionManager" hit="Reload All External Projects" />
+    <option name="projects" path="ActionManager" hit="Reload All External Projects" />
+    <option name="reload" path="ActionManager" hit="Reload All External Projects" />
+    <option name="external" path="ActionManager" hit="Reload External Project" />
+    <option name="project" path="ActionManager" hit="Reload External Project" />
+    <option name="reload" path="ActionManager" hit="Reload External Project" />
     <option name="configuration" path="ActionManager" hit="Remove Run Configuration" />
     <option name="remove" path="ActionManager" hit="Remove Run Configuration" />
     <option name="run" path="ActionManager" hit="Remove Run Configuration" />
@@ -179,6 +243,9 @@
     <option name="show" path="ActionManager" hit="Show Ignored" />
     <option name="activation" path="ActionManager" hit="Tasks Activation" />
     <option name="tasks" path="ActionManager" hit="Tasks Activation" />
+    <option name="auto-reload" path="ActionManager" hit="Toggle Auto-reload Mode" />
+    <option name="mode" path="ActionManager" hit="Toggle Auto-reload Mode" />
+    <option name="toggle" path="ActionManager" hit="Toggle Auto-reload Mode" />
     <option name="external" path="ActionManager" hit="Unlink External Project" />
     <option name="project" path="ActionManager" hit="Unlink External Project" />
     <option name="unlink" path="ActionManager" hit="Unlink External Project" />
@@ -186,5 +253,29 @@
     <option name="selected" path="ActionManager" hit="Unlink selected project" />
     <option name="unlink" path="ActionManager" hit="Unlink selected project" />
   </configurable>
+  <configurable id="build.tools" configurable_name="Build Tools">
+    <option name="" hit="   Changes outside the IDE or from version control.   " />
+    <option name="changes" hit="   Changes outside the IDE or from version control.   " />
+    <option name="control" hit="   Changes outside the IDE or from version control.   " />
+    <option name="from" hit="   Changes outside the IDE or from version control.   " />
+    <option name="ide" hit="   Changes outside the IDE or from version control.   " />
+    <option name="or" hit="   Changes outside the IDE or from version control.   " />
+    <option name="outside" hit="   Changes outside the IDE or from version control.   " />
+    <option name="the" hit="   Changes outside the IDE or from version control.   " />
+    <option name="version" hit="   Changes outside the IDE or from version control.   " />
+    <option name="any" hit="Any changes" />
+    <option name="changes" hit="Any changes" />
+    <option name="build" hit="Build Tools" />
+    <option name="tools" hit="Build Tools" />
+    <option name="changes" hit="External changes" />
+    <option name="external" hit="External changes" />
+    <option name="after" hit="Reload project after changes in the build scripts:" />
+    <option name="build" hit="Reload project after changes in the build scripts:" />
+    <option name="changes" hit="Reload project after changes in the build scripts:" />
+    <option name="in" hit="Reload project after changes in the build scripts:" />
+    <option name="project" hit="Reload project after changes in the build scripts:" />
+    <option name="reload" hit="Reload project after changes in the build scripts:" />
+    <option name="scripts" hit="Reload project after changes in the build scripts:" />
+    <option name="the" hit="Reload project after changes in the build scripts:" />
+  </configurable>
 </options>
-

@@ -1,7 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <options>
   <configurable id="preferences.keymap" configurable_name="Keymap">
     <option name="" path="ActionManager" hit="" />
+    <option name="directory" path="ActionManager" hit="Directory Structure" />
+    <option name="structure" path="ActionManager" hit="Directory Structure" />
+    <option name="file" path="ActionManager" hit="File Structure" />
+    <option name="structure" path="ActionManager" hit="File Structure" />
+    <option name="flatten" path="ActionManager" hit="Flatten Modules" />
+    <option name="modules" path="ActionManager" hit="Flatten Modules" />
+    <option name="by" path="ActionManager" hit="Group by directory" />
+    <option name="directory" path="ActionManager" hit="Group by directory" />
+    <option name="group" path="ActionManager" hit="Group by directory" />
+    <option name="module" path="ActionManager" hit="Module" />
     <option name="remove" path="ActionManager" hit="Remove" />
     <option name="from" path="ActionManager" hit="Remove this usage(s) from processing" />
     <option name="processing" path="ActionManager" hit="Remove this usage(s) from processing" />
@@ -12,6 +21,12 @@
     <option name="rerun" path="ActionManager" hit="Rerun" />
     <option name="rerun" path="ActionManager" hit="Rerun search" />
     <option name="search" path="ActionManager" hit="Rerun search" />
+    <option name="production" path="ActionManager" hit="Test/Production" />
+    <option name="test" path="ActionManager" hit="Test/Production" />
+    <option name="type" path="ActionManager" hit="Usage Type" />
+    <option name="usage" path="ActionManager" hit="Usage Type" />
+    <option name="grouping" path="ActionManager" hit="Usage View Grouping" />
+    <option name="usage" path="ActionManager" hit="Usage View Grouping" />
+    <option name="view" path="ActionManager" hit="Usage View Grouping" />
   </configurable>
 </options>
-

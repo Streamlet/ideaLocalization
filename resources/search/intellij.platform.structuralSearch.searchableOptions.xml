@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <options>
   <configurable id="preferences.keymap" configurable_name="Keymap">
     <option name="" path="ActionManager" hit="" />
@@ -12,4 +11,3 @@
     <option name="structural" path="ActionManager" hit="Structural Search" />
   </configurable>
 </options>
-
