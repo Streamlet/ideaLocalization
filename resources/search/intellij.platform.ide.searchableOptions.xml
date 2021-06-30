@@ -1,74 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <options>
-  <configurable id="http.proxy" configurable_name="HTTP Proxy">
-    <option name="" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="calls" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="cause" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="didn" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="disable" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="go" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="have" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="if" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="intend" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="java" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="jvm" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="net" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="network" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="operating" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="please" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="property" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="proxy" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="set" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="some" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="system-defined" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="t" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="this" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="through" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="to" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="true" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="use" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="usesystemproxies" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="will" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="you" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="auto-detect" hit="Auto-detect proxy settings" />
-    <option name="proxy" hit="Auto-detect proxy settings" />
-    <option name="settings" hit="Auto-detect proxy settings" />
-    <option name="automatic" hit="Automatic proxy configuration URL:" />
-    <option name="configuration" hit="Automatic proxy configuration URL:" />
-    <option name="proxy" hit="Automatic proxy configuration URL:" />
-    <option name="url" hit="Automatic proxy configuration URL:" />
-    <option name="check" hit="Check connection" />
-    <option name="connection" hit="Check connection" />
-    <option name="clear" hit="Clear passwords" />
-    <option name="passwords" hit="Clear passwords" />
-    <option name="168" hit="Example: *.domain.com, 192.168.*" />
-    <option name="192" hit="Example: *.domain.com, 192.168.*" />
-    <option name="com" hit="Example: *.domain.com, 192.168.*" />
-    <option name="domain" hit="Example: *.domain.com, 192.168.*" />
-    <option name="example" hit="Example: *.domain.com, 192.168.*" />
-    <option name="http" hit="HTTP" />
-    <option name="http" hit="HTTP Proxy" />
-    <option name="proxy" hit="HTTP Proxy" />
-    <option name="host" hit="Host name:" />
-    <option name="name" hit="Host name:" />
-    <option name="label" hit="Label" />
-    <option name="login" hit="Login:" />
-    <option name="configuration" hit="Manual proxy configuration" />
-    <option name="manual" hit="Manual proxy configuration" />
-    <option name="proxy" hit="Manual proxy configuration" />
-    <option name="no" hit="No proxy" />
-    <option name="proxy" hit="No proxy" />
-    <option name="for" hit="No proxy for:" />
-    <option name="no" hit="No proxy for:" />
-    <option name="proxy" hit="No proxy for:" />
-    <option name="password" hit="Password:" />
-    <option name="number" hit="Port number:" />
-    <option name="port" hit="Port number:" />
-    <option name="authentication" hit="Proxy authentication" />
-    <option name="proxy" hit="Proxy authentication" />
-    <option name="remember" hit="Remember" />
-    <option name="socks" hit="SOCKS" />
-  </configurable>
   <configurable id="preferences.keymap" configurable_name="Keymap">
     <option name="" path="ActionManager" hit="" />
     <option name="accept" path="ActionManager" hit="Accept Left Side" />
@@ -112,12 +42,12 @@
     <option name="and" path="ActionManager" hit="Base and Right" />
     <option name="base" path="ActionManager" hit="Base and Right" />
     <option name="right" path="ActionManager" hit="Base and Right" />
-    <option name="browse" path="ActionManager" hit="Browse Console History" />
-    <option name="console" path="ActionManager" hit="Browse Console History" />
-    <option name="history" path="ActionManager" hit="Browse Console History" />
-    <option name="browse" path="ActionManager" hit="Browse console history" />
-    <option name="console" path="ActionManager" hit="Browse console history" />
-    <option name="history" path="ActionManager" hit="Browse console history" />
+    <option name="browse" path="ActionManager" hit="Browse Query History" />
+    <option name="history" path="ActionManager" hit="Browse Query History" />
+    <option name="query" path="ActionManager" hit="Browse Query History" />
+    <option name="browse" path="ActionManager" hit="Browse query history" />
+    <option name="history" path="ActionManager" hit="Browse query history" />
+    <option name="query" path="ActionManager" hit="Browse query history" />
     <option name="clear" path="ActionManager" hit="Clear text" />
     <option name="text" path="ActionManager" hit="Clear text" />
     <option name="clear" path="ActionManager" hit="Clear text in text components" />
@@ -127,6 +57,10 @@
     <option name="close" path="ActionManager" hit="Close Context Menu" />
     <option name="context" path="ActionManager" hit="Close Context Menu" />
     <option name="menu" path="ActionManager" hit="Close Context Menu" />
+    <option name="close" path="ActionManager" hit="Close Got It Tooltip" />
+    <option name="got" path="ActionManager" hit="Close Got It Tooltip" />
+    <option name="it" path="ActionManager" hit="Close Got It Tooltip" />
+    <option name="tooltip" path="ActionManager" hit="Close Got It Tooltip" />
     <option name="a" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
     <option name="and" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
     <option name="child" path="ActionManager" hit="Closes a child menu and selects the corresponding item in a parent menu." />
@@ -142,6 +76,8 @@
     <option name="closes" path="ActionManager" hit="Closes a context menu." />
     <option name="context" path="ActionManager" hit="Closes a context menu." />
     <option name="menu" path="ActionManager" hit="Closes a context menu." />
+    <option name="all" path="ActionManager" hit="Collapse All" />
+    <option name="collapse" path="ActionManager" hit="Collapse All" />
     <option name="compare" path="ActionManager" hit="Compare Contents" />
     <option name="contents" path="ActionManager" hit="Compare Contents" />
     <option name="compare" path="ActionManager" hit="Compare Next File" />
@@ -187,6 +123,8 @@
     <option name="in" path="ActionManager" hit="Execute current statement in one-line console" />
     <option name="one-line" path="ActionManager" hit="Execute current statement in one-line console" />
     <option name="statement" path="ActionManager" hit="Execute current statement in one-line console" />
+    <option name="all" path="ActionManager" hit="Expand All" />
+    <option name="expand" path="ActionManager" hit="Expand All" />
     <option name="force" path="ActionManager" hit="Force Refresh" />
     <option name="refresh" path="ActionManager" hit="Force Refresh" />
     <option name="changed" path="ActionManager" hit="Go To Changed File..." />
@@ -322,8 +260,6 @@
     <option name="conflicts" path="ActionManager" hit="Resolve Simple Conflicts" />
     <option name="resolve" path="ActionManager" hit="Resolve Simple Conflicts" />
     <option name="simple" path="ActionManager" hit="Resolve Simple Conflicts" />
-    <option name="debug" path="ActionManager" hit="Run/Debug" />
-    <option name="run" path="ActionManager" hit="Run/Debug" />
     <option name="child" path="ActionManager" hit="Select Child Menu Item" />
     <option name="item" path="ActionManager" hit="Select Child Menu Item" />
     <option name="menu" path="ActionManager" hit="Select Child Menu Item" />
@@ -422,6 +358,75 @@
     <option name="run" path="ActionManager" hit="Touchbar Run/Debug Actions" />
     <option name="touchbar" path="ActionManager" hit="Touchbar Run/Debug Actions" />
   </configurable>
+  <configurable id="http.proxy" configurable_name="HTTP Proxy">
+    <option name="" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="calls" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="cause" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="didn" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="disable" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="go" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="have" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="if" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="intend" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="java" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="jvm" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="net" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="network" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="operating" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="please" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="property" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="proxy" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="set" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="some" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="system-defined" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="t" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="this" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="through" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="to" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="true" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="use" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="usesystemproxies" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="will" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="you" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
+    <option name="auto-detect" hit="Auto-detect proxy settings" />
+    <option name="proxy" hit="Auto-detect proxy settings" />
+    <option name="settings" hit="Auto-detect proxy settings" />
+    <option name="automatic" hit="Automatic proxy configuration URL:" />
+    <option name="configuration" hit="Automatic proxy configuration URL:" />
+    <option name="proxy" hit="Automatic proxy configuration URL:" />
+    <option name="url" hit="Automatic proxy configuration URL:" />
+    <option name="check" hit="Check connection" />
+    <option name="connection" hit="Check connection" />
+    <option name="clear" hit="Clear passwords" />
+    <option name="passwords" hit="Clear passwords" />
+    <option name="168" hit="Example: *.domain.com, 192.168.*" />
+    <option name="192" hit="Example: *.domain.com, 192.168.*" />
+    <option name="com" hit="Example: *.domain.com, 192.168.*" />
+    <option name="domain" hit="Example: *.domain.com, 192.168.*" />
+    <option name="example" hit="Example: *.domain.com, 192.168.*" />
+    <option name="http" hit="HTTP" />
+    <option name="http" hit="HTTP Proxy" />
+    <option name="proxy" hit="HTTP Proxy" />
+    <option name="host" hit="Host name:" />
+    <option name="name" hit="Host name:" />
+    <option name="label" hit="Label" />
+    <option name="login" hit="Login:" />
+    <option name="configuration" hit="Manual proxy configuration" />
+    <option name="manual" hit="Manual proxy configuration" />
+    <option name="proxy" hit="Manual proxy configuration" />
+    <option name="no" hit="No proxy" />
+    <option name="proxy" hit="No proxy" />
+    <option name="for" hit="No proxy for:" />
+    <option name="no" hit="No proxy for:" />
+    <option name="proxy" hit="No proxy for:" />
+    <option name="password" hit="Password:" />
+    <option name="number" hit="Port number:" />
+    <option name="port" hit="Port number:" />
+    <option name="authentication" hit="Proxy authentication" />
+    <option name="proxy" hit="Proxy authentication" />
+    <option name="remember" hit="Remember" />
+    <option name="socks" hit="SOCKS" />
+  </configurable>
   <configurable id="http.certificates" configurable_name="Server Certificates">
     <option name="accept" hit="Accept non-trusted certificates automatically" />
     <option name="automatically" hit="Accept non-trusted certificates automatically" />
@@ -435,5 +440,9 @@
     <option name="certificates" hit="Server Certificates" />
     <option name="server" hit="Server Certificates" />
   </configurable>
+  <configurable id="com.intellij.profiler.configurations.ui.EditProfilerConfigurationsComponent" configurable_name="Go Profiler">
+    <option name="go" hit="Go Profiler" />
+    <option name="profiler" hit="Go Profiler" />
+    <option name="name" hit="Name:" />
+  </configurable>
 </options>
-

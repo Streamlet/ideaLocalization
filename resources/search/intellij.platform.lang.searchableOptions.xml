@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <options>
   <configurable id="preferences.keymap" configurable_name="Keymap">
     <option name="" path="ActionManager" hit="" />
@@ -14,10 +13,13 @@
     <option name="ui" path="ActionManager" hit="Focus this view by default when UI is shown" />
     <option name="view" path="ActionManager" hit="Focus this view by default when UI is shown" />
     <option name="when" path="ActionManager" hit="Focus this view by default when UI is shown" />
-    <option name="next" path="ActionManager" hit="Next Parameter" />
-    <option name="parameter" path="ActionManager" hit="Next Parameter" />
-    <option name="parameter" path="ActionManager" hit="Previous Parameter" />
-    <option name="previous" path="ActionManager" hit="Previous Parameter" />
+    <option name="live" path="ActionManager" hit="Next Live Template Parameter" />
+    <option name="next" path="ActionManager" hit="Next Live Template Parameter" />
+    <option name="parameter" path="ActionManager" hit="Next Live Template Parameter" />
+    <option name="template" path="ActionManager" hit="Next Live Template Parameter" />
+    <option name="live" path="ActionManager" hit="Previous Live Template Parameter" />
+    <option name="parameter" path="ActionManager" hit="Previous Live Template Parameter" />
+    <option name="previous" path="ActionManager" hit="Previous Live Template Parameter" />
+    <option name="template" path="ActionManager" hit="Previous Live Template Parameter" />
   </configurable>
 </options>
-

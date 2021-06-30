@@ -1,0 +1,191 @@
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="add" path="ActionManager" hit="Add Configuration..." />
+    <option name="configuration" path="ActionManager" hit="Add Configuration..." />
+    <option name="and" path="ActionManager" hit="Choose and debug configuration" />
+    <option name="choose" path="ActionManager" hit="Choose and debug configuration" />
+    <option name="configuration" path="ActionManager" hit="Choose and debug configuration" />
+    <option name="debug" path="ActionManager" hit="Choose and debug configuration" />
+    <option name="and" path="ActionManager" hit="Choose and run configuration" />
+    <option name="choose" path="ActionManager" hit="Choose and run configuration" />
+    <option name="configuration" path="ActionManager" hit="Choose and run configuration" />
+    <option name="run" path="ActionManager" hit="Choose and run configuration" />
+    <option name="all" path="ActionManager" hit="Clear All" />
+    <option name="clear" path="ActionManager" hit="Clear All" />
+    <option name="clear" path="ActionManager" hit="Clear the contents of the console" />
+    <option name="console" path="ActionManager" hit="Clear the contents of the console" />
+    <option name="contents" path="ActionManager" hit="Clear the contents of the console" />
+    <option name="of" path="ActionManager" hit="Clear the contents of the console" />
+    <option name="the" path="ActionManager" hit="Clear the contents of the console" />
+    <option name="close" path="ActionManager" hit="Close" />
+    <option name="all" path="ActionManager" hit="Close All" />
+    <option name="close" path="ActionManager" hit="Close All" />
+    <option name="all" path="ActionManager" hit="Close All but Pinned" />
+    <option name="but" path="ActionManager" hit="Close All but Pinned" />
+    <option name="close" path="ActionManager" hit="Close All but Pinned" />
+    <option name="pinned" path="ActionManager" hit="Close All but Pinned" />
+    <option name="close" path="ActionManager" hit="Close Others" />
+    <option name="others" path="ActionManager" hit="Close Others" />
+    <option name="all" path="ActionManager" hit="Close all tabs which are not pinned" />
+    <option name="are" path="ActionManager" hit="Close all tabs which are not pinned" />
+    <option name="close" path="ActionManager" hit="Close all tabs which are not pinned" />
+    <option name="not" path="ActionManager" hit="Close all tabs which are not pinned" />
+    <option name="pinned" path="ActionManager" hit="Close all tabs which are not pinned" />
+    <option name="tabs" path="ActionManager" hit="Close all tabs which are not pinned" />
+    <option name="which" path="ActionManager" hit="Close all tabs which are not pinned" />
+    <option name="all" path="ActionManager" hit="Close all views" />
+    <option name="close" path="ActionManager" hit="Close all views" />
+    <option name="views" path="ActionManager" hit="Close all views" />
+    <option name="close" path="ActionManager" hit="Close other views" />
+    <option name="other" path="ActionManager" hit="Close other views" />
+    <option name="views" path="ActionManager" hit="Close other views" />
+    <option name="close" path="ActionManager" hit="Close view" />
+    <option name="view" path="ActionManager" hit="Close view" />
+    <option name="configuration" path="ActionManager" hit="Create run configuration from context" />
+    <option name="context" path="ActionManager" hit="Create run configuration from context" />
+    <option name="create" path="ActionManager" hit="Create run configuration from context" />
+    <option name="from" path="ActionManager" hit="Create run configuration from context" />
+    <option name="run" path="ActionManager" hit="Create run configuration from context" />
+    <option name="debug" path="ActionManager" hit="Debug" />
+    <option name="configuration" path="ActionManager" hit="Debug context configuration" />
+    <option name="context" path="ActionManager" hit="Debug context configuration" />
+    <option name="debug" path="ActionManager" hit="Debug context configuration" />
+    <option name="configuration" path="ActionManager" hit="Debug selected configuration" />
+    <option name="debug" path="ActionManager" hit="Debug selected configuration" />
+    <option name="selected" path="ActionManager" hit="Debug selected configuration" />
+    <option name="debug" path="ActionManager" hit="Debug..." />
+    <option name="debugger" path="ActionManager" hit="Debugger" />
+    <option name="configurations" path="ActionManager" hit="Edit Configurations..." />
+    <option name="edit" path="ActionManager" hit="Edit Configurations..." />
+    <option name="layout" path="ActionManager" hit="Layout" />
+    <option name="configuration" path="ActionManager" hit="Layout configuration" />
+    <option name="layout" path="ActionManager" hit="Layout configuration" />
+    <option name="manage" path="ActionManager" hit="Manage Targets..." />
+    <option name="targets" path="ActionManager" hit="Manage Targets..." />
+    <option name="configuration" path="ActionManager" hit="Modify Run Configuration..." />
+    <option name="modify" path="ActionManager" hit="Modify Run Configuration..." />
+    <option name="run" path="ActionManager" hit="Modify Run Configuration..." />
+    <option name="configurations" path="ActionManager" hit="Open 'Edit Run/Debug configurations' dialog" />
+    <option name="debug" path="ActionManager" hit="Open 'Edit Run/Debug configurations' dialog" />
+    <option name="dialog" path="ActionManager" hit="Open 'Edit Run/Debug configurations' dialog" />
+    <option name="edit" path="ActionManager" hit="Open 'Edit Run/Debug configurations' dialog" />
+    <option name="open" path="ActionManager" hit="Open 'Edit Run/Debug configurations' dialog" />
+    <option name="run" path="ActionManager" hit="Open 'Edit Run/Debug configurations' dialog" />
+    <option name="output" path="ActionManager" hit="Pause Output" />
+    <option name="pause" path="ActionManager" hit="Pause Output" />
+    <option name="profile" path="ActionManager" hit="Profile" />
+    <option name="configuration" path="ActionManager" hit="Profile context configuration" />
+    <option name="context" path="ActionManager" hit="Profile context configuration" />
+    <option name="profile" path="ActionManager" hit="Profile context configuration" />
+    <option name="configuration" path="ActionManager" hit="Profile selected configuration" />
+    <option name="profile" path="ActionManager" hit="Profile selected configuration" />
+    <option name="selected" path="ActionManager" hit="Profile selected configuration" />
+    <option name="and" path="ActionManager" hit="Record and Debug" />
+    <option name="debug" path="ActionManager" hit="Record and Debug" />
+    <option name="record" path="ActionManager" hit="Record and Debug" />
+    <option name="and" path="ActionManager" hit="Record and Debug context configuration" />
+    <option name="configuration" path="ActionManager" hit="Record and Debug context configuration" />
+    <option name="context" path="ActionManager" hit="Record and Debug context configuration" />
+    <option name="debug" path="ActionManager" hit="Record and Debug context configuration" />
+    <option name="record" path="ActionManager" hit="Record and Debug context configuration" />
+    <option name="rerun" path="ActionManager" hit="Rerun" />
+    <option name="rerun" path="ActionManager" hit="Rerun Tests" />
+    <option name="tests" path="ActionManager" hit="Rerun Tests" />
+    <option name="default" path="ActionManager" hit="Restore Default Layout" />
+    <option name="layout" path="ActionManager" hit="Restore Default Layout" />
+    <option name="restore" path="ActionManager" hit="Restore Default Layout" />
+    <option name="debugger" path="ActionManager" hit="Restore visual elements of debugger session to default state" />
+    <option name="default" path="ActionManager" hit="Restore visual elements of debugger session to default state" />
+    <option name="elements" path="ActionManager" hit="Restore visual elements of debugger session to default state" />
+    <option name="of" path="ActionManager" hit="Restore visual elements of debugger session to default state" />
+    <option name="restore" path="ActionManager" hit="Restore visual elements of debugger session to default state" />
+    <option name="session" path="ActionManager" hit="Restore visual elements of debugger session to default state" />
+    <option name="state" path="ActionManager" hit="Restore visual elements of debugger session to default state" />
+    <option name="to" path="ActionManager" hit="Restore visual elements of debugger session to default state" />
+    <option name="visual" path="ActionManager" hit="Restore visual elements of debugger session to default state" />
+    <option name="run" path="ActionManager" hit="Run" />
+    <option name="configuration" path="ActionManager" hit="Run Configuration Templates for New Projects..." />
+    <option name="for" path="ActionManager" hit="Run Configuration Templates for New Projects..." />
+    <option name="new" path="ActionManager" hit="Run Configuration Templates for New Projects..." />
+    <option name="projects" path="ActionManager" hit="Run Configuration Templates for New Projects..." />
+    <option name="run" path="ActionManager" hit="Run Configuration Templates for New Projects..." />
+    <option name="templates" path="ActionManager" hit="Run Configuration Templates for New Projects..." />
+    <option name="configuration" path="ActionManager" hit="Run context configuration" />
+    <option name="context" path="ActionManager" hit="Run context configuration" />
+    <option name="run" path="ActionManager" hit="Run context configuration" />
+    <option name="configuration" path="ActionManager" hit="Run selected configuration" />
+    <option name="run" path="ActionManager" hit="Run selected configuration" />
+    <option name="selected" path="ActionManager" hit="Run selected configuration" />
+    <option name="configuration" path="ActionManager" hit="Run selected configuration with coverage enabled" />
+    <option name="coverage" path="ActionManager" hit="Run selected configuration with coverage enabled" />
+    <option name="enabled" path="ActionManager" hit="Run selected configuration with coverage enabled" />
+    <option name="run" path="ActionManager" hit="Run selected configuration with coverage enabled" />
+    <option name="selected" path="ActionManager" hit="Run selected configuration with coverage enabled" />
+    <option name="with" path="ActionManager" hit="Run selected configuration with coverage enabled" />
+    <option name="coverage" path="ActionManager" hit="Run with Coverage" />
+    <option name="run" path="ActionManager" hit="Run with Coverage" />
+    <option name="with" path="ActionManager" hit="Run with Coverage" />
+    <option name="configuration" path="ActionManager" hit="Run with Coverage context configuration" />
+    <option name="context" path="ActionManager" hit="Run with Coverage context configuration" />
+    <option name="coverage" path="ActionManager" hit="Run with Coverage context configuration" />
+    <option name="run" path="ActionManager" hit="Run with Coverage context configuration" />
+    <option name="with" path="ActionManager" hit="Run with Coverage context configuration" />
+    <option name="run" path="ActionManager" hit="Run..." />
+    <option name="debug" path="ActionManager" hit="Run/Debug" />
+    <option name="run" path="ActionManager" hit="Run/Debug" />
+    <option name="configuration" path="ActionManager" hit="Select Run/Debug Configuration" />
+    <option name="debug" path="ActionManager" hit="Select Run/Debug Configuration" />
+    <option name="run" path="ActionManager" hit="Select Run/Debug Configuration" />
+    <option name="select" path="ActionManager" hit="Select Run/Debug Configuration" />
+    <option name="eof" path="ActionManager" hit="Send EOF" />
+    <option name="send" path="ActionManager" hit="Send EOF" />
+    <option name="list" path="ActionManager" hit="Show Running List" />
+    <option name="running" path="ActionManager" hit="Show Running List" />
+    <option name="show" path="ActionManager" hit="Show Running List" />
+    <option name="at" path="ActionManager" hit="Show list of Run Configurations running at the moment" />
+    <option name="configurations" path="ActionManager" hit="Show list of Run Configurations running at the moment" />
+    <option name="list" path="ActionManager" hit="Show list of Run Configurations running at the moment" />
+    <option name="moment" path="ActionManager" hit="Show list of Run Configurations running at the moment" />
+    <option name="of" path="ActionManager" hit="Show list of Run Configurations running at the moment" />
+    <option name="run" path="ActionManager" hit="Show list of Run Configurations running at the moment" />
+    <option name="running" path="ActionManager" hit="Show list of Run Configurations running at the moment" />
+    <option name="show" path="ActionManager" hit="Show list of Run Configurations running at the moment" />
+    <option name="the" path="ActionManager" hit="Show list of Run Configurations running at the moment" />
+    <option name="active" path="ActionManager" hit="State widget active processes labels" />
+    <option name="labels" path="ActionManager" hit="State widget active processes labels" />
+    <option name="processes" path="ActionManager" hit="State widget active processes labels" />
+    <option name="state" path="ActionManager" hit="State widget active processes labels" />
+    <option name="widget" path="ActionManager" hit="State widget active processes labels" />
+    <option name="bar" path="ActionManager" hit="State widget bar component" />
+    <option name="component" path="ActionManager" hit="State widget bar component" />
+    <option name="state" path="ActionManager" hit="State widget bar component" />
+    <option name="widget" path="ActionManager" hit="State widget bar component" />
+    <option name="component" path="ActionManager" hit="State widget component" />
+    <option name="state" path="ActionManager" hit="State widget component" />
+    <option name="widget" path="ActionManager" hit="State widget component" />
+    <option name="action" path="ActionManager" hit="State widget rerun action" />
+    <option name="rerun" path="ActionManager" hit="State widget rerun action" />
+    <option name="state" path="ActionManager" hit="State widget rerun action" />
+    <option name="widget" path="ActionManager" hit="State widget rerun action" />
+    <option name="stop" path="ActionManager" hit="Stop" />
+    <option name="background" path="ActionManager" hit="Stop Background Processes..." />
+    <option name="processes" path="ActionManager" hit="Stop Background Processes..." />
+    <option name="stop" path="ActionManager" hit="Stop Background Processes..." />
+    <option name="background" path="ActionManager" hit="Stop Background processes" />
+    <option name="processes" path="ActionManager" hit="Stop Background processes" />
+    <option name="stop" path="ActionManager" hit="Stop Background processes" />
+    <option name="process" path="ActionManager" hit="Stop process" />
+    <option name="stop" path="ActionManager" hit="Stop process" />
+    <option name="actions" path="ActionManager" hit="Toolbar Run Actions" />
+    <option name="run" path="ActionManager" hit="Toolbar Run Actions" />
+    <option name="toolbar" path="ActionManager" hit="Toolbar Run Actions" />
+    <option name="application" path="ActionManager" hit="Update Running Application" />
+    <option name="running" path="ActionManager" hit="Update Running Application" />
+    <option name="update" path="ActionManager" hit="Update Running Application" />
+    <option name="action" path="ActionManager" hit="VCS segmented control action" />
+    <option name="control" path="ActionManager" hit="VCS segmented control action" />
+    <option name="segmented" path="ActionManager" hit="VCS segmented control action" />
+    <option name="vcs" path="ActionManager" hit="VCS segmented control action" />
+  </configurable>
+</options>

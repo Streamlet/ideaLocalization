@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <options>
   <configurable id="reference.settingsdialog.IDE.editor.colors.RegExp" configurable_name="RegExp">
     <option name="regexp" hit="RegExp" />
@@ -18,6 +17,8 @@
     <option name="escape" hit="Invalid escape sequence" />
     <option name="invalid" hit="Invalid escape sequence" />
     <option name="sequence" hit="Invalid escape sequence" />
+    <option name="groups" hit="Matched groups" />
+    <option name="matched" hit="Matched groups" />
     <option name="name" hit="Name" />
     <option name="character" hit="Operator character" />
     <option name="operator" hit="Operator character" />
@@ -25,11 +26,10 @@
     <option name="character" hit="Plain character" />
     <option name="plain" hit="Plain character" />
     <option name="quantifier" hit="Quantifier" />
-    <option name="character" hit="Quote character" />
-    <option name="quote" hit="Quote character" />
+    <option name="escape" hit="Quote escape" />
+    <option name="quote" hit="Quote escape" />
     <option name="escape" hit="Redundant escape sequence" />
     <option name="redundant" hit="Redundant escape sequence" />
     <option name="sequence" hit="Redundant escape sequence" />
   </configurable>
 </options>
-

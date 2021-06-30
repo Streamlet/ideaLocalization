@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <options>
   <configurable id="preferences.keymap" configurable_name="Keymap">
     <option name="" path="ActionManager" hit="" />
+    <option name="add" path="ActionManager" hit="Add Inline Watch" />
+    <option name="inline" path="ActionManager" hit="Add Inline Watch" />
+    <option name="watch" path="ActionManager" hit="Add Inline Watch" />
     <option name="add" path="ActionManager" hit="Add to Watches" />
     <option name="to" path="ActionManager" hit="Add to Watches" />
     <option name="watches" path="ActionManager" hit="Add to Watches" />
@@ -47,8 +49,9 @@
     <option name="selected" path="ActionManager" hit="Copy value of selected node to clipboard" />
     <option name="to" path="ActionManager" hit="Copy value of selected node to clipboard" />
     <option name="value" path="ActionManager" hit="Copy value of selected node to clipboard" />
-    <option name="actions" path="ActionManager" hit="Debug Actions" />
-    <option name="debug" path="ActionManager" hit="Debug Actions" />
+    <option name="debug" path="ActionManager" hit="Debug" />
+    <option name="actions" path="ActionManager" hit="Debugger Actions" />
+    <option name="debugger" path="ActionManager" hit="Debugger Actions" />
     <option name="actions" path="ActionManager" hit="Debugger ForceStep Actions" />
     <option name="debugger" path="ActionManager" hit="Debugger ForceStep Actions" />
     <option name="forcestep" path="ActionManager" hit="Debugger ForceStep Actions" />
@@ -59,6 +62,8 @@
     <option name="debugger" path="ActionManager" hit="Debugger with Alt Key" />
     <option name="key" path="ActionManager" hit="Debugger with Alt Key" />
     <option name="with" path="ActionManager" hit="Debugger with Alt Key" />
+    <option name="actions" path="ActionManager" hit="Debugging Actions" />
+    <option name="debugging" path="ActionManager" hit="Debugging Actions" />
     <option name="duplicate" path="ActionManager" hit="Duplicate Watch" />
     <option name="watch" path="ActionManager" hit="Duplicate Watch" />
     <option name="breakpoint" path="ActionManager" hit="Edit breakpoint" />
@@ -166,8 +171,13 @@
     <option name="the" path="ActionManager" hit="Open source of the selected value's type" />
     <option name="type" path="ActionManager" hit="Open source of the selected value's type" />
     <option name="value" path="ActionManager" hit="Open source of the selected value's type" />
+    <option name="pause" path="ActionManager" hit="Pause" />
     <option name="pause" path="ActionManager" hit="Pause Program" />
     <option name="program" path="ActionManager" hit="Pause Program" />
+    <option name="pause" path="ActionManager" hit="Pause state widget process" />
+    <option name="process" path="ActionManager" hit="Pause state widget process" />
+    <option name="state" path="ActionManager" hit="Pause state widget process" />
+    <option name="widget" path="ActionManager" hit="Pause state widget process" />
     <option name="pin" path="ActionManager" hit="Pin to Top" />
     <option name="to" path="ActionManager" hit="Pin to Top" />
     <option name="top" path="ActionManager" hit="Pin to Top" />
@@ -195,11 +205,16 @@
     <option name="deleted" path="ActionManager" hit="Restore last deleted breakpoint" />
     <option name="last" path="ActionManager" hit="Restore last deleted breakpoint" />
     <option name="restore" path="ActionManager" hit="Restore last deleted breakpoint" />
+    <option name="resume" path="ActionManager" hit="Resume" />
     <option name="program" path="ActionManager" hit="Resume Program" />
     <option name="resume" path="ActionManager" hit="Resume Program" />
     <option name="execution" path="ActionManager" hit="Resume program execution" />
     <option name="program" path="ActionManager" hit="Resume program execution" />
     <option name="resume" path="ActionManager" hit="Resume program execution" />
+    <option name="process" path="ActionManager" hit="Resume state widget process" />
+    <option name="resume" path="ActionManager" hit="Resume state widget process" />
+    <option name="state" path="ActionManager" hit="Resume state widget process" />
+    <option name="widget" path="ActionManager" hit="Resume state widget process" />
     <option name="cursor" path="ActionManager" hit="Run to Cursor" />
     <option name="run" path="ActionManager" hit="Run to Cursor" />
     <option name="to" path="ActionManager" hit="Run to Cursor" />
@@ -318,6 +333,8 @@
     <option name="execution" path="ActionManager" hit="Suspend program execution and enable debugging" />
     <option name="program" path="ActionManager" hit="Suspend program execution and enable debugging" />
     <option name="suspend" path="ActionManager" hit="Suspend program execution and enable debugging" />
+    <option name="breakpoint" path="ActionManager" hit="Toggle Breakpoint" />
+    <option name="toggle" path="ActionManager" hit="Toggle Breakpoint" />
     <option name="breakpoint" path="ActionManager" hit="Toggle Breakpoint Enabled" />
     <option name="enabled" path="ActionManager" hit="Toggle Breakpoint Enabled" />
     <option name="toggle" path="ActionManager" hit="Toggle Breakpoint Enabled" />
@@ -498,4 +515,3 @@
     <option name="hotswap" hit="HotSwap" />
   </configurable>
 </options>
-
