@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <options>
   <configurable id="preferences.keymap" configurable_name="Keymap">
     <option name="" path="ActionManager" hit="" />
     <option name="cherry-pick" path="ActionManager" hit="Cherry-Pick" />
     <option name="force" path="ActionManager" hit="Force Push" />
     <option name="push" path="ActionManager" hit="Force Push" />
+    <option name="push" path="ActionManager" hit="Push" />
     <option name="push" path="ActionManager" hit="Push..." />
     <option name="repository" path="ActionManager" hit="Repository" />
+    <option name="are" path="ActionManager" hit="Selected commits are tracked by different vcses" />
+    <option name="by" path="ActionManager" hit="Selected commits are tracked by different vcses" />
+    <option name="commits" path="ActionManager" hit="Selected commits are tracked by different vcses" />
+    <option name="different" path="ActionManager" hit="Selected commits are tracked by different vcses" />
+    <option name="selected" path="ActionManager" hit="Selected commits are tracked by different vcses" />
+    <option name="tracked" path="ActionManager" hit="Selected commits are tracked by different vcses" />
+    <option name="vcses" path="ActionManager" hit="Selected commits are tracked by different vcses" />
   </configurable>
 </options>
-

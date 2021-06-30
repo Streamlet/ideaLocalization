@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <options>
   <configurable id="preferences.keymap" configurable_name="Keymap">
     <option name="" path="ActionManager" hit="" />
@@ -11,6 +10,7 @@
     <option name="annotate" path="ActionManager" hit="Annotate selected revision" />
     <option name="revision" path="ActionManager" hit="Annotate selected revision" />
     <option name="selected" path="ActionManager" hit="Annotate selected revision" />
+    <option name="bottom" path="ActionManager" hit="Bottom" />
     <option name="and" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
     <option name="check" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
     <option name="commits" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
@@ -50,6 +50,9 @@
     <option name="configure" path="ActionManager" hit="Configure window layout" />
     <option name="layout" path="ActionManager" hit="Configure window layout" />
     <option name="window" path="ActionManager" hit="Configure window layout" />
+    <option name="diff" path="ActionManager" hit="Diff Preview Location" />
+    <option name="location" path="ActionManager" hit="Diff Preview Location" />
+    <option name="preview" path="ActionManager" hit="Diff Preview Location" />
     <option name="changes" path="ActionManager" hit="Display changes to each merged commit separately" />
     <option name="commit" path="ActionManager" hit="Display changes to each merged commit separately" />
     <option name="display" path="ActionManager" hit="Display changes to each merged commit separately" />
@@ -108,6 +111,18 @@
     <option name="took" path="ActionManager" hit="Indexing was paused as it took longer than expected. Resume." />
     <option name="was" path="ActionManager" hit="Indexing was paused as it took longer than expected. Resume." />
     <option name="intellisort" path="ActionManager" hit="IntelliSort" />
+    <option name="bottom" path="ActionManager" hit="Locate Diff Preview in the bottom" />
+    <option name="diff" path="ActionManager" hit="Locate Diff Preview in the bottom" />
+    <option name="in" path="ActionManager" hit="Locate Diff Preview in the bottom" />
+    <option name="locate" path="ActionManager" hit="Locate Diff Preview in the bottom" />
+    <option name="preview" path="ActionManager" hit="Locate Diff Preview in the bottom" />
+    <option name="the" path="ActionManager" hit="Locate Diff Preview in the bottom" />
+    <option name="diff" path="ActionManager" hit="Locate Diff Preview in the right" />
+    <option name="in" path="ActionManager" hit="Locate Diff Preview in the right" />
+    <option name="locate" path="ActionManager" hit="Locate Diff Preview in the right" />
+    <option name="preview" path="ActionManager" hit="Locate Diff Preview in the right" />
+    <option name="right" path="ActionManager" hit="Locate Diff Preview in the right" />
+    <option name="the" path="ActionManager" hit="Locate Diff Preview in the right" />
     <option name="case" path="ActionManager" hit="Match Case" />
     <option name="match" path="ActionManager" hit="Match Case" />
     <option name="child" path="ActionManager" hit="Navigate to the child row in the commit graph" />
@@ -126,14 +141,22 @@
     <option name="row" path="ActionManager" hit="Navigate to the parent row in the commit graph" />
     <option name="the" path="ActionManager" hit="Navigate to the parent row in the commit graph" />
     <option name="to" path="ActionManager" hit="Navigate to the parent row in the commit graph" />
-    <option name="another" path="ActionManager" hit="Open Another Log Tab" />
-    <option name="log" path="ActionManager" hit="Open Another Log Tab" />
-    <option name="open" path="ActionManager" hit="Open Another Log Tab" />
-    <option name="tab" path="ActionManager" hit="Open Another Log Tab" />
-    <option name="another" path="ActionManager" hit="Open another log tab" />
-    <option name="log" path="ActionManager" hit="Open another log tab" />
-    <option name="open" path="ActionManager" hit="Open another log tab" />
-    <option name="tab" path="ActionManager" hit="Open another log tab" />
+    <option name="affect" path="ActionManager" hit="Only show changes that affect files selected in the &quot;Paths&quot; menu" />
+    <option name="changes" path="ActionManager" hit="Only show changes that affect files selected in the &quot;Paths&quot; menu" />
+    <option name="files" path="ActionManager" hit="Only show changes that affect files selected in the &quot;Paths&quot; menu" />
+    <option name="in" path="ActionManager" hit="Only show changes that affect files selected in the &quot;Paths&quot; menu" />
+    <option name="menu" path="ActionManager" hit="Only show changes that affect files selected in the &quot;Paths&quot; menu" />
+    <option name="only" path="ActionManager" hit="Only show changes that affect files selected in the &quot;Paths&quot; menu" />
+    <option name="paths" path="ActionManager" hit="Only show changes that affect files selected in the &quot;Paths&quot; menu" />
+    <option name="selected" path="ActionManager" hit="Only show changes that affect files selected in the &quot;Paths&quot; menu" />
+    <option name="show" path="ActionManager" hit="Only show changes that affect files selected in the &quot;Paths&quot; menu" />
+    <option name="that" path="ActionManager" hit="Only show changes that affect files selected in the &quot;Paths&quot; menu" />
+    <option name="the" path="ActionManager" hit="Only show changes that affect files selected in the &quot;Paths&quot; menu" />
+    <option name="log" path="ActionManager" hit="Open New Vcs Log Tab" />
+    <option name="new" path="ActionManager" hit="Open New Vcs Log Tab" />
+    <option name="open" path="ActionManager" hit="Open New Vcs Log Tab" />
+    <option name="tab" path="ActionManager" hit="Open New Vcs Log Tab" />
+    <option name="vcs" path="ActionManager" hit="Open New Vcs Log Tab" />
     <option name="editor" path="ActionManager" hit="Open editor with selected revision of the file" />
     <option name="file" path="ActionManager" hit="Open editor with selected revision of the file" />
     <option name="of" path="ActionManager" hit="Open editor with selected revision of the file" />
@@ -142,12 +165,19 @@
     <option name="selected" path="ActionManager" hit="Open editor with selected revision of the file" />
     <option name="the" path="ActionManager" hit="Open editor with selected revision of the file" />
     <option name="with" path="ActionManager" hit="Open editor with selected revision of the file" />
+    <option name="log" path="ActionManager" hit="Open new tab with Vcs Log" />
+    <option name="new" path="ActionManager" hit="Open new tab with Vcs Log" />
+    <option name="open" path="ActionManager" hit="Open new tab with Vcs Log" />
+    <option name="tab" path="ActionManager" hit="Open new tab with Vcs Log" />
+    <option name="vcs" path="ActionManager" hit="Open new tab with Vcs Log" />
+    <option name="with" path="ActionManager" hit="Open new tab with Vcs Log" />
     <option name="presentation" path="ActionManager" hit="Presentation Settings" />
     <option name="settings" path="ActionManager" hit="Presentation Settings" />
     <option name="refresh" path="ActionManager" hit="Refresh" />
     <option name="regex" path="ActionManager" hit="Regex" />
     <option name="indexing" path="ActionManager" hit="Resume Indexing" />
     <option name="resume" path="ActionManager" hit="Resume Indexing" />
+    <option name="right" path="ActionManager" hit="Right" />
     <option name="columns" path="ActionManager" hit="Select columns to see in the table" />
     <option name="in" path="ActionManager" hit="Select columns to see in the table" />
     <option name="see" path="ActionManager" hit="Select columns to see in the table" />
@@ -220,9 +250,9 @@
     <option name="table" path="ActionManager" hit="Show Tag Names in the Table" />
     <option name="tag" path="ActionManager" hit="Show Tag Names in the Table" />
     <option name="the" path="ActionManager" hit="Show Tag Names in the Table" />
-    <option name="log" path="ActionManager" hit="Show VCS Log" />
-    <option name="show" path="ActionManager" hit="Show VCS Log" />
-    <option name="vcs" path="ActionManager" hit="Show VCS Log" />
+    <option name="log" path="ActionManager" hit="Show Vcs Log" />
+    <option name="show" path="ActionManager" hit="Show Vcs Log" />
+    <option name="vcs" path="ActionManager" hit="Show Vcs Log" />
     <option name="all" path="ActionManager" hit="Show all changes made in the chosen revision" />
     <option name="changes" path="ActionManager" hit="Show all changes made in the chosen revision" />
     <option name="chosen" path="ActionManager" hit="Show all changes made in the chosen revision" />
@@ -244,18 +274,6 @@
     <option name="show" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
     <option name="the" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
     <option name="view" path="ActionManager" hit="Show long branch edges even if commits are invisible in the current view." />
-    <option name="affect" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
-    <option name="changes" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
-    <option name="files" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
-    <option name="in" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
-    <option name="menu" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
-    <option name="only" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
-    <option name="paths" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
-    <option name="selected" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
-    <option name="show" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
-    <option name="that" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
-    <option name="the" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
-    <option name="were" path="ActionManager" hit="Show only changes that affect files that were selected in the &quot;Paths&quot; menu" />
     <option name="commit" path="ActionManager" hit="Show references on the left of commit message" />
     <option name="left" path="ActionManager" hit="Show references on the left of commit message" />
     <option name="message" path="ActionManager" hit="Show references on the left of commit message" />
@@ -315,4 +333,3 @@
     <option name="turn" path="ActionManager" hit="Turn IntelliSort On/Off" />
   </configurable>
 </options>
-

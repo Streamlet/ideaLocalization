@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <options>
   <configurable id="preferences.keymap" configurable_name="Keymap">
     <option name="" path="ActionManager" hit="" />
@@ -13,12 +12,21 @@
     <option name="profiler" path="ActionManager" hit="Attach to process with an available profiler" />
     <option name="to" path="ActionManager" hit="Attach to process with an available profiler" />
     <option name="with" path="ActionManager" hit="Attach to process with an available profiler" />
-    <option name="and" path="ActionManager" hit="CPU and Memory Live Charts Demo" />
-    <option name="charts" path="ActionManager" hit="CPU and Memory Live Charts Demo" />
-    <option name="cpu" path="ActionManager" hit="CPU and Memory Live Charts Demo" />
-    <option name="demo" path="ActionManager" hit="CPU and Memory Live Charts Demo" />
-    <option name="live" path="ActionManager" hit="CPU and Memory Live Charts Demo" />
-    <option name="memory" path="ActionManager" hit="CPU and Memory Live Charts Demo" />
+    <option name="and" path="ActionManager" hit="CPU and Memory Live Charts" />
+    <option name="charts" path="ActionManager" hit="CPU and Memory Live Charts" />
+    <option name="cpu" path="ActionManager" hit="CPU and Memory Live Charts" />
+    <option name="live" path="ActionManager" hit="CPU and Memory Live Charts" />
+    <option name="memory" path="ActionManager" hit="CPU and Memory Live Charts" />
+    <option name="call" path="ActionManager" hit="Exclude Call" />
+    <option name="exclude" path="ActionManager" hit="Exclude Call" />
+    <option name="exclude" path="ActionManager" hit="Exclude Subtree" />
+    <option name="subtree" path="ActionManager" hit="Exclude Subtree" />
+    <option name="call" path="ActionManager" hit="Focus On Call" />
+    <option name="focus" path="ActionManager" hit="Focus On Call" />
+    <option name="on" path="ActionManager" hit="Focus On Call" />
+    <option name="focus" path="ActionManager" hit="Focus On Subtree" />
+    <option name="on" path="ActionManager" hit="Focus On Subtree" />
+    <option name="subtree" path="ActionManager" hit="Focus On Subtree" />
     <option name="back" path="ActionManager" hit="Method Back Traces" />
     <option name="method" path="ActionManager" hit="Method Back Traces" />
     <option name="traces" path="ActionManager" hit="Method Back Traces" />
@@ -48,6 +56,12 @@
     <option name="selected" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
     <option name="tab" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
     <option name="tree" path="ActionManager" hit="Open selected method Merged Callees tree in a new tab" />
+    <option name="a" path="ActionManager" hit="Open selected subtree in a new tab" />
+    <option name="in" path="ActionManager" hit="Open selected subtree in a new tab" />
+    <option name="new" path="ActionManager" hit="Open selected subtree in a new tab" />
+    <option name="open" path="ActionManager" hit="Open selected subtree in a new tab" />
+    <option name="selected" path="ActionManager" hit="Open selected subtree in a new tab" />
+    <option name="subtree" path="ActionManager" hit="Open selected subtree in a new tab" />
+    <option name="tab" path="ActionManager" hit="Open selected subtree in a new tab" />
   </configurable>
 </options>
-

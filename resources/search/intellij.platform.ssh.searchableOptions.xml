@@ -1,0 +1,10 @@
+<options>
+  <configurable id="ssh.settings" configurable_name="SSH Configurations">
+    <option name="" hit="  Add SSH configuration  " />
+    <option name="add" hit="  Add SSH configuration  " />
+    <option name="configuration" hit="  Add SSH configuration  " />
+    <option name="ssh" hit="  Add SSH configuration  " />
+    <option name="configurations" hit="SSH Configurations" />
+    <option name="ssh" hit="SSH Configurations" />
+  </configurable>
+</options>
